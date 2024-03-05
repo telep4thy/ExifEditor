@@ -17,6 +17,7 @@ Only image files with .jpg or .tiff extension are accepted.
 Editable Exif information is limited to the following items:
 
 - date and time of shooting
+- maker name
 - camera model
 - lens model
 - focal length
