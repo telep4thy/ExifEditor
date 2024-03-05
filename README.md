@@ -31,7 +31,7 @@ Editable Exif information is limited to the following items:
 
 (We have not confirmed execution on environments other than those listed above, such as MacOS, so please do so at your own risk.)
 
-## Development Enviroment
+## Development enviroment
 
 Python environment and libraries used are listed below.
 
